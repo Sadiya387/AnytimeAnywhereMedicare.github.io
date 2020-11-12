@@ -456,7 +456,7 @@ header h1{
 }
 .wrapper{
   margin: auto;
-  padding: 40px;
+  padding: 120px;
   display: flex;
   flex-wrap: wrap;
   background: #16a085;
